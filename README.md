@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi there👋 I'm Tarun Khandelwal 👋</h1>
 <h3 align="center">I'm a passionate DevOps learner always exploring new tools, technologies, and best practices to streamline software development and deployment processes. I love solving complex problems and continuously improving my skills.</h3>
 

@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cloudOpsgenius/Eks-Project.git](https://github.com/cloudOpsgenius/Eks-Project.git)
 
-- 💬 Ask me about **Docker ,Jenkins and AWS**
+- 💬 Ask me about **Docker ,Jenkins ,Terraform and AWS**
 
 - 📫 How to reach me **tarunofficial781@gmail.com**
 
